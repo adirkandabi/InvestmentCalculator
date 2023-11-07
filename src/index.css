@@ -35,7 +35,7 @@ body {
   max-width: 30rem;
   margin: 2rem auto;
   border-radius: 4px;
-  background: linear-gradient(180deg, #885a89, #e15554);
+  background: rgba(74, 158, 150, 0.211);
 }
 
 .input-group {
@@ -56,7 +56,7 @@ body {
 #user-input input {
   width: 100%;
   padding: 0.5rem;
-  border: 1px solid #3b3c31;
+  border: 1px solid #dfdfd9;
   border-radius: 0.25rem;
   background-color: transparent;
   color: #ffffff;
